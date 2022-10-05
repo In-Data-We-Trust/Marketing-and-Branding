@@ -1,10 +1,12 @@
 # Company Goals and Objectives
 
-This page is being made to positively influence my chance of completing the goals. There are 3 items that influence this:
+This page is being made to positively influence my chance of achieving the goals. There are 3 items that can positively influence this:
 
 1. Written Goals
 2. Public Committent
 3. Accountability 
+
+By writing down the goals below, they can be referred back to track through progress and keep aligned to the future goal!
 
 ## Goals
 
