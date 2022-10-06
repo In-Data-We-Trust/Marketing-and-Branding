@@ -11,6 +11,8 @@ Over time, people have shared a number of Links with myself and will continue to
 
 - Copify: https://uk.copify.com/
   - Make a brief and ask a copy writing to polish the document. I am great at data/scripts/code, less so on phrasing so definitely one to outsource where possible
+- Power of words: https://www.powerofwords.media/
+  - Copy Writer referred to me from Tim D
 - AnswerthePublic: https://answerthepublic.com/
   - Search for any key word and see what people are writing about now! Great to see what is trending or for ideas for content
 
