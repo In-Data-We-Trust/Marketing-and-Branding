@@ -8,5 +8,5 @@ There's a lot of changes occuring, which can no longer be held in my memory.
 | About | https://www.indatawetrust.co.uk/about/ | Yes | | 
 | First Blog Post | https://www.indatawetrust.co.uk/data-stacks-why-they-will-either-make-break-your-company | Yes | 23/05/2023 https://www.linkedin.com/posts/pratikpatel89_data-stacks-why-theyll-either-make-or-activity-7066661588711141376-rBnk?utm_source=share&utm_medium=member_desktop |
 | How We Work | N/A | To be built - detail received from Michelle | |
-| Contact Page | N/A| To be built - detail received from Michelle | Yes |
+| Contact Page | N/A| Yes | |
 | Who we Help | N/A | Feedback and details to be shared with Michele, so the copy can be written | |
