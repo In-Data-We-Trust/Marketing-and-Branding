@@ -10,3 +10,10 @@ There's a lot of changes occuring, which can no longer be held in my memory.
 | How We Work | N/A | To be built - detail received from Michelle | |
 | Contact Page | N/A| Yes | |
 | Who we Help | N/A | Feedback and details to be shared with Michele, so the copy can be written | |
+
+## Target State of the Site Map
+Michelle has pulled together a target state of the website site map to provide some inspiration on future pages. 
+
+<img width="795" alt="image" src="https://github.com/In-Data-We-Trust/Marketing-and-Branding/assets/112123058/bd8c4cd3-3715-47b0-b015-2b4e4bd336c7">
+
+[In Data We Trust - Site Map - 8.2.23.pdf](https://github.com/In-Data-We-Trust/Marketing-and-Branding/files/11692274/In.Data.We.Trust.-.Site.Map.-.8.2.23.pdf)
