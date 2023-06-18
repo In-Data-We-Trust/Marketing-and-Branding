@@ -1,9 +1,14 @@
-# Useful Links
+# Useful Links and Overview
 
-- [Useful Links](#useful-links)
+- [Useful Links and Overview](#useful-links-and-overview)
+  - [Overview](#overview)
   - [Content Writing](#content-writing)
+  - [Case Studies](#case-studies)
   - [Business Cards](#business-cards)
   - [Images](#images)
+  - [Outsourced Marketing Agencies](#outsourced-marketing-agencies)
+
+## Overview
 
 Over time, people have shared a number of Links with myself and will continue to share more. They will all be captured here for easy reference
 
@@ -15,6 +20,12 @@ Over time, people have shared a number of Links with myself and will continue to
   - Copy Writer referred to me from Tim D
 - AnswerthePublic: https://answerthepublic.com/
   - Search for any key word and see what people are writing about now! Great to see what is trending or for ideas for content
+
+## Case Studies
+
+A guide on how and why to write a case study
+
+https://www.powerofwords.media/blog/how-a-case-study-can-help-your-business
 
 ## Business Cards
 
@@ -42,3 +53,9 @@ Every great site needs images, below is a list of lots of sites to search for fr
     - Gorgeous, High-Resolution, Free Photos
 8.  Burst: https://burst.shopify.com/
     - Download free, high-resolution images
+
+
+## Outsourced Marketing Agencies
+
+Super Cider (**Name to be checked with Teams chat and updated**) has been suggest as one agency that can do a start up 3 month marketing package
+
