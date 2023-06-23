@@ -1,0 +1,4 @@
+- trusted data
+- understanding what each person wants from data
+- evolving the ask from I want a dashboard on application to I want to know the number of drop outs, so we can prioritise which features or bugs to put to the top of the do list
+- 
