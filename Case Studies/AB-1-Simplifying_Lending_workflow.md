@@ -4,7 +4,7 @@
 
 AB after launch, started to see a growth in the number of mortgage applications. There was an existing workflow however it had a number of issues that couldn't be resolved to resolve the management of the workflow challenges.
 
-Existing problems involved existing teams not having an easy way to see the most urgent applications to review and next steps to be carried out. Trying to make these changing within the existing systems would have taken a considerable amount of time which would have lost AB a competitive edge and create unhappy customers. 
+Existing problems involved existing teams not having an easy way to see the most urgent applications to review and next steps to be carried out. Trying to make these changes within the existing systems would have taken a considerable amount of time which would have lost AB a competitive edge and create unhappy customers. 
 
 By conducting a discovery exercise to break the challenge down, we were able to provide a daily report for each team that shows which applications needed to be actioned and how long the outstanding task was. This meant every customer application could be acted upon in a timely way, suppliers were a Happy AB user and saw quick turnaround times.
 
