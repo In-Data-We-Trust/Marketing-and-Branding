@@ -59,3 +59,7 @@ Every great site needs images, below is a list of lots of sites to search for fr
 
 Super Cider (**Name to be checked with Teams chat and updated**) has been suggest as one agency that can do a start up 3 month marketing package
 
+
+## Icon library for presentations
+
+https://storyset.com/
