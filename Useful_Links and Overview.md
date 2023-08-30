@@ -27,6 +27,10 @@ A guide on how and why to write a case study
 
 https://www.powerofwords.media/blog/how-a-case-study-can-help-your-business
 
+### A guide from Linkedin on leveraging AI to quickly create a meaningful blog post
+
+![image](https://github.com/In-Data-We-Trust/Marketing-and-Branding/assets/112123058/e2055720-ffd8-44f1-9931-ed2938d10446)
+
 ## Business Cards
 
 - Moo - Business cards: https://www.moo.com/us/
