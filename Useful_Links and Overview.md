@@ -42,7 +42,7 @@ I have a .xslx stored on my personal one drive with a list of recruiters, contac
 
 ## A guide from Linkedin on leveraging AI to quickly create a meaningful blog post
 
-![image](https://github.com/In-Data-We-Trust/Marketing-and-Branding/assets/112123058/e2055720-ffd8-44f1-9931-ed2938d10446)
+<img src="https://github.com/In-Data-We-Trust/Marketing-and-Branding/assets/112123058/e2055720-ffd8-44f1-9931-ed2938d10446" width="450">
 
 ## Business Cards
 
