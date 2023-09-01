@@ -4,10 +4,13 @@
   - [Overview](#overview)
   - [Content Writing](#content-writing)
   - [Case Studies](#case-studies)
+  - [Other Key Contacts that Could be useful in the future](#other-key-contacts-that-could-be-useful-in-the-future)
+  - [Recruiters and contacts for Contract searching](#recruiters-and-contacts-for-contract-searching)
+  - [A guide from Linkedin on leveraging AI to quickly create a meaningful blog post](#a-guide-from-linkedin-on-leveraging-ai-to-quickly-create-a-meaningful-blog-post)
   - [Business Cards](#business-cards)
   - [Images](#images)
   - [Outsourced Marketing Agencies](#outsourced-marketing-agencies)
-
+  - [Icon library for presentations](#icon-library-for-presentations)
 ## Overview
 
 Over time, people have shared a number of Links with myself and will continue to share more. They will all be captured here for easy reference
@@ -27,9 +30,19 @@ A guide on how and why to write a case study
 
 https://www.powerofwords.media/blog/how-a-case-study-can-help-your-business
 
-### A guide from Linkedin on leveraging AI to quickly create a meaningful blog post
+## Other Key Contacts that Could be useful in the future
 
-![image](https://github.com/In-Data-We-Trust/Marketing-and-Branding/assets/112123058/e2055720-ffd8-44f1-9931-ed2938d10446)
+- https://www.linkedin.com/in/authorpaulo/ - A writer that can help in the future
+- https://www.linkedin.com/in/authorpaulo/ - Lead generation content, one for once a few clients are onboarded
+- https://www.superside.com - Marketing company with 3 month price
+
+## Recruiters and contacts for Contract searching
+
+I have a .xslx stored on my personal one drive with a list of recruiters, contacts that is maintained and stored under ***\LTD - 1. PBDA Ltd\1. CV & Linkedin Updates***
+
+## A guide from Linkedin on leveraging AI to quickly create a meaningful blog post
+
+<img src="https://github.com/In-Data-We-Trust/Marketing-and-Branding/assets/112123058/e2055720-ffd8-44f1-9931-ed2938d10446" width="450">
 
 ## Business Cards
 
