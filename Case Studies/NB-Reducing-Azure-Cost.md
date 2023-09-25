@@ -1,0 +1,3 @@
+Holding MD page for reducing Azure cost from large data lake house to DB's that are required for volumes
+
+Data lake houses, with large number of partitions without a focus on actively managing them become costly...........
