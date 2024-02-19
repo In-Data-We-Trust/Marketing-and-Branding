@@ -46,7 +46,7 @@ Struggled to influence your gut instincts? You need trusted data to influence yo
 
     Get in touch to work towards it and influence those around you
 
-Struggled with expensive consultancys that haven't delivered what you want.
+Struggled with expensive consultancy's that haven't delivered what you want.
 
     Get in touch for a refreshed change from a smaller one. We've spent years corrected 3rd parties poor solutions and would like to do this for you
 
@@ -61,3 +61,8 @@ Is your analytics working for your company and team?
     It should be easy to understand and use to make decisions
     
     If it's not, let's talk
+
+
+The reason your data isn't working as because you are missing the domain knowledge needed to unlock data.
+
+    Get in touch for mortgage insights, from us, who understand the end to end mortgage journey.
