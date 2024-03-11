@@ -9,8 +9,10 @@
 - [Module 1.4 What you're REALLY Selling](#module-14-what-youre-really-selling)
 - [Module 1.5 Customer Domains](#module-15-customer-domains)
   - [What we need:](#what-we-need)
+  - [Vanity Domain](#vanity-domain)
   - [Email Outreach](#email-outreach)
 - [Module 1.6 Enquiry to Customer Score Sheet](#module-16-enquiry-to-customer-score-sheet)
+- [Module 1.7 Integrating your CRM](#module-17-integrating-your-crm)
 - [Some pre-notes whilst thinking ahead - To Archive After](#some-pre-notes-whilst-thinking-ahead---to-archive-after)
   - [Messaging](#messaging)
 
@@ -80,25 +82,60 @@ To think of a positive and negative of hook for lenders
 
 ![alt text](image-4.png)
 
+## Vanity Domain
+- LendingDashboards
+
+
+
 ## Email Outreach
 
 Don't use main email address.
 
-Register new domain and email address.....some ideas
-- LendingDashboards
-- LendingDataMadeEasy
-- InDataWeTrust-data-made-easy
-- InDataWeTrust-Making-trusted-data-simple
-- InDataWeTrust-Dreaming-of-simple-trusted-dashboards
-- InDataWeTrust-Making-Dashboards-Simple
+Register new domain and email address for cold outreach
+- PPatel-training
+- PPatel-enquiries
 
 # Module 1.6 Enquiry to Customer Score Sheet
 
+Track your data here to refine! Preaching to the choir here....
 
+![alt text](image-5.png)
 
+# Module 1.7 Integrating your CRM
 
+Can manually track enquiries in early days.........however need to know which CRM to use to integrate all for a quick mobilisation.
 
+Visual flow of information from sources: 
 
+![alt text](image-6.png)
+
+Suggest tool to use is Zapier to integrate various sources into CRM
+
+![alt text](image-7.png)
+ 
+Use LinkPort to connect contacts from LinkedIn to Pipedrive or the other CRM tools it works with
+
+![alt text](image-8.png)
+
+CRM tools it works with
+![alt text](image-9.png)
+
+The one tool suggested is Pipedrive - can with a click of a button import contacts from LinkedIn!
+
+![alt text](image-10.png) 
+
+Sales process used by course
+
+![alt text](image-11.png)
+
+I could use:
+
+- Qualification
+- Booked Call / Contacted for conversation
+- Proposal Sent
+- Signed off
+- Catch up later
+- Closed and won
 
 # Some pre-notes whilst thinking ahead - To Archive After
 
