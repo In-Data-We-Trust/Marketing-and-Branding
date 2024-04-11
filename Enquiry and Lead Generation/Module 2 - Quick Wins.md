@@ -116,3 +116,73 @@ To understand how to use, watch video 2.4 on the course and go to 33 minutes! - 
 Need to track and tweak if response rate isn't as expected
 
 ![alt text](image-24.png)
+
+# Module 2.5 - Current Customers
+
+- Encourage buying further services
+- Encourage Repeat Purchases
+- Encourage referrals
+
+# Module 2.6 - Other Channels 
+
+In my spreadsheet where I track other leads, I can also consider business partners as leads. 
+
+For them I can run a DIFFERENT quick wins campaign too, with tweaked messaging. For this I need to adapt the messaging slightly
+
+![alt text](image-23.png)
+
+# Module 2.7 - Day 1-7
+
+Prep work is done for below:
+
+- Looked at Channels
+- Messaging is done
+
+I will be using email channels and LinkedIn DM's channel
+
+# Module 2.8 - Moving Leads Along
+
+![alt text](image-25.png)
+
+We want to be qualifying any enquiries to qualify them as a lead. So any follow up calls or meetings are a good use of time.
+
+Qualification questions added to module_2.docx on Onedrive
+
+## Pro Tips...
+
+
+- When using DM's, been available to respond. We should receive responses within 1 hour!
+- When sending emails, send 2 Q's at a time. No more than 2 emails to qualify
+
+![alt text](image-26.png)
+
+For tracking people that need responses, mark messages as unread as a to-do list. Same as my emails at work!
+
+![alt text](image-27.png)
+
+Use Text Blaze (free chrome plugin) to simplify the process of responding to lots of people.
+*Only needed once volume increases*
+https://blaze.today/
+
+
+
+![alt text](image-28.png)
+
+
+## Avoid Ghosting
+
+You can nudge 3 times, and then leave them
+
+- Nudge 1 - wait 1-2 hours
+- Nudge 2 - wait one more day
+- Nudge 3 - wait one more day
+
+![alt text](image-29.png)
+
+Other ways of Nudging:
+
+![alt text](image-30.png)
+
+CRM reminder - add all leads to CRM to track - suggested is pipedrive
+
+![alt text](image-31.png)
