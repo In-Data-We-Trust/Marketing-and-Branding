@@ -186,3 +186,9 @@ Other ways of Nudging:
 CRM reminder - add all leads to CRM to track - suggested is pipedrive
 
 ![alt text](image-31.png)
+
+# Module 2.8 - Recap
+
+## What Next?
+
+Plan the next one and think when is best to do it!
